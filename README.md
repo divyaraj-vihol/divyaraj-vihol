@@ -27,6 +27,20 @@
 
 ---
 
+<h3 align="center">💻 Coding Platforms:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyaraj-vihol/divyaraj-vihol/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
@@ -88,4 +102,15 @@
 </p>
 
 ---
+
+<h2 align="center">⚡ Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://github.com/divyaraj-vihol/divyaraj-vihol/raw/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</p>
 
