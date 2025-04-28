@@ -23,56 +23,33 @@
   <a href="https://instagram.com/divyarajsinh.vihol555" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="python" />
-  </a>
+<div align="center">
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="c" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="cplusplus" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="c" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="javascript" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="cplusplus" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="html5" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="css3" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="seaborn" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.3)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="scikit-learn" />
-  </a>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="50" alt="seaborn" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="80" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="opencv" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="40" alt="scikit-learn" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" alt="mysql" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="90" height="50" alt="opencv" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="50" alt="mysql" style="margin: 15px; transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
 </div>
 
@@ -82,17 +59,17 @@
 
 <div align="center">
 
-  <a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-" style="margin: 20px; display: inline-block; font-size: 18px; text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-    📊 Hotel Booking Analysis
-  </a> <br>
+<a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+  📊 Hotel Booking Analysis
+</a> <br>
 
-  <a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction" style="margin: 20px; display: inline-block; font-size: 18px; text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-    🧬 Multiple Disease Prediction
-  </a> <br>
+<a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+  🧬 Multiple Disease Prediction
+</a> <br>
 
-  <a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis" style="margin: 20px; display: inline-block; font-size: 18px; text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-    💬 WhatsApp Data Analysis
-  </a>
+<a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+  💬 WhatsApp Data Analysis
+</a>
 
 </div>
 
