@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400" />
 </div>
 
 ---
@@ -15,13 +15,13 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/divyaraj-vihol555" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/divyarajsinh.vihol555" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -30,16 +30,16 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="50" alt="Seaborn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="40" alt="Scikit-Learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="90" height="50" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" />
 </p>
 
 ---
@@ -60,10 +60,18 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
@@ -73,9 +81,20 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/divyaraj-vihol/divyaraj-vihol/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 <h2 align="center">💬 Random Dev Quote</h2>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
 
 
