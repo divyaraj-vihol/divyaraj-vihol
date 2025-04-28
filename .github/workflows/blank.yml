@@ -1,0 +1,19 @@
+name: GitHub Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run GitHub Snake
+        uses: Platane/snk@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
