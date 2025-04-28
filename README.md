@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/divyaraj-vihol/divyaraj-vihol/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
@@ -100,17 +96,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-<h2 align="center">⚡ Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <img src="https://github.com/divyaraj-vihol/divyaraj-vihol/raw/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-</p>
-
