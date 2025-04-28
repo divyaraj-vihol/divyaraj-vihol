@@ -33,14 +33,6 @@
   </a>
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -77,9 +69,9 @@
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
-  • <a href="https://github.com/divyaraj-vihol/project1">Project 1</a> - Short description<br>
-  • <a href="https://github.com/divyaraj-vihol/project2">Project 2</a> - Short description<br>
-  • <a href="https://github.com/divyaraj-vihol/project3">Project 3</a> - Short description
+  • <a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-">Hotel Booking Analysis</a> - Data analysis project for hotel bookings<br>
+  • <a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction">Multiple Disease Prediction</a> - Machine learning project for disease prediction<br>
+  • <a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis">WhatsApp Data Analysis</a> - Analysis of WhatsApp chat data
 </p>
 
 <h2 align="center">GitHub Stats</h2>
