@@ -3,19 +3,8 @@
 </h1>
 
 <div align="center">
-  <!-- Snake Game Contribution Grid -->
   <img src="https://raw.githubusercontent.com/divyaraj-vihol/divyaraj-vihol/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" width="100%"/>
-  
-  <!-- Animated Coding GIF -->
-  <img src="https://github.com/divyaraj-vihol/divyaraj-vihol/blob/main/assets/coding.gif" alt="Coding Animation" width="400"/>
-  
-  <!-- Floating Tech Icons Animation -->
-  <div>
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50" style="margin:10px">
-    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="50" style="margin:10px">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" style="margin:10px">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" style="margin:10px">
-  </div>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639666334303130363333616631373932353834303739343431353837616632653463333632662f3130302e706e67" alt="Coding GIF" width="400"/>
 </div>
 
 ## **🔥 Tech Stack & Skills**
@@ -25,13 +14,20 @@
 ### **💻 Programming Languages**
   
 <div>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" style="margin:10px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 </div>
 
 ### **🛠️ Tools & Frameworks**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,opencv,git,github,vscode" style="margin:10px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
   
 </div>
@@ -40,11 +36,11 @@
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divyaraj-vihol&theme=radical&background=0D1117&border=DD2727&stroke=DD2727&dates=58A6FF&ring=DD2727&fire=DD2727&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyaraj-vihol&theme=radical&border_radius=10&mode=weekly&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
 
-[![Divyaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=DD2727&bg_color=0D1117&title_color=58A6FF&icon_color=DD2727)](https://github.com/divyaraj-vihol)
+[![Divyaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10)](https://github.com/divyaraj-vihol)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical&border_radius=10&border_color=DD2727&bg_color=0D1117&title_color=58A6FF)](https://github.com/divyaraj-vihol)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical&border_radius=10)](https://github.com/divyaraj-vihol)
 
 </div>
 
@@ -52,23 +48,31 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/divyaraj-vihol555)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/divyarajsinh.vihol555)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=101010)](https://leetcode.com/yourusername/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/yourid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaraj-vihol555)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyarajsinh.vihol555)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourusername/)
   
 </div>
 
-## **📊 Weekly Development Breakdown**
+## **📈 Contribution Graph**
 
-```text
-💻 Programming Languages:
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜    90%
-C++          🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜    70%
-JavaScript   🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜    50%
-Java         🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜    30%
+<div align="center">
+  
+[![Divyaraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyaraj-vihol&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-📚 Frameworks:
-OpenCV       🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜    60%
-React        🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜    30%
+</div>
+
+## **🎲 Random Dev Quote**
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/divyaraj-vihol/count.svg)
+
+</div>
