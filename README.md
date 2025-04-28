@@ -57,21 +57,39 @@
 
 <h3 align="center">🚀 Featured Projects:</h3>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
 
-<a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+<a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-" style="text-decoration: none; font-size: 20px; color: inherit; position: relative; display: inline-block; transition: 0.3s;">
   📊 Hotel Booking Analysis
-</a> <br>
+  <span style="position: absolute; left: 0; bottom: -2px; height: 2px; width: 0%; background-color: #00F7FF; transition: width 0.3s;"></span>
+</a>
 
-<a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+<a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction" style="text-decoration: none; font-size: 20px; color: inherit; position: relative; display: inline-block; transition: 0.3s;">
   🧬 Multiple Disease Prediction
-</a> <br>
+  <span style="position: absolute; left: 0; bottom: -2px; height: 2px; width: 0%; background-color: #00F7FF; transition: width 0.3s;"></span>
+</a>
 
-<a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis" style="text-decoration: none; font-size: 20px; margin: 10px; transition: all 0.4s;" onmouseover="this.style.transform='scale(1.1)'; this.style.color='#00f7ff';" onmouseout="this.style.transform='scale(1)'; this.style.color='';">
+<a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis" style="text-decoration: none; font-size: 20px; color: inherit; position: relative; display: inline-block; transition: 0.3s;">
   💬 WhatsApp Data Analysis
+  <span style="position: absolute; left: 0; bottom: -2px; height: 2px; width: 0%; background-color: #00F7FF; transition: width 0.3s;"></span>
 </a>
 
 </div>
+
+<script>
+  // Add animation to all featured projects
+  document.querySelectorAll('div a').forEach(link => {
+    link.addEventListener('mouseenter', () => {
+      link.style.transform = 'scale(1.1)';
+      link.querySelector('span').style.width = '100%';
+    });
+    link.addEventListener('mouseleave', () => {
+      link.style.transform = 'scale(1)';
+      link.querySelector('span').style.width = '0%';
+    });
+  });
+</script>
+
 
 ---
 
