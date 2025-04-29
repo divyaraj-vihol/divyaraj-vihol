@@ -1,41 +1,41 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😎;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student;Tech+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student;Tech+Learner" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" style="max-width: 90%; height: auto;" />
 </div>
 
----
+<hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyaraj-vihol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=divyaraj-vihol.divyaraj-vihol" alt="Visitor Counter" />
 </p>
 
----
+<hr>
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/divyaraj-vihol555" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/divyarajsinh.vihol555" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">💻 Coding Platforms:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
----
+<hr>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
@@ -52,47 +52,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" />
 </p>
 
----
+<hr>
 
 <h3 align="center">🚀 Featured Projects:</h3>
 
 <p align="center">
   <a href="https://github.com/divyaraj-vihol/HOTEL-BOOKING-ANALYSIS-" target="_blank">
-    <img src="https://img.shields.io/badge/Hotel%20Booking%20Analysis-%F0%9F%93%8A-blue?style=for-the-badge" alt="Hotel Booking Analysis" />
+    <img src="https://img.shields.io/badge/Hotel%20Booking%20Analysis-📊-blue?style=for-the-badge" alt="Hotel Booking Analysis" />
   </a>
   <a href="https://github.com/divyaraj-vihol/Multiple-Disease-Prediction" target="_blank">
-    <img src="https://img.shields.io/badge/Multiple%20Disease%20Prediction-%F0%9F%A7%AC-green?style=for-the-badge" alt="Multiple Disease Prediction" />
+    <img src="https://img.shields.io/badge/Multiple%20Disease%20Prediction-🧬-green?style=for-the-badge" alt="Multiple Disease Prediction" />
   </a>
   <a href="https://github.com/divyaraj-vihol/whatsapp-data-analysis" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%20Data%20Analysis-%F0%9F%92%AC-lightgrey?style=for-the-badge" alt="WhatsApp Data Analysis" />
+    <img src="https://img.shields.io/badge/WhatsApp%20Data%20Analysis-💬-lightgrey?style=for-the-badge" alt="WhatsApp Data Analysis" />
   </a>
 </p>
 
----
+<hr>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" style="max-width: 100%; height: auto;" alt="GitHub Trophies" />
 </p>
 
----
+<hr>
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" alt="Streak Stats" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" style="max-width: 100%; height: auto;" alt="Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical" style="width: 48%; min-width: 300px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical" style="width: 48%; min-width: 300px;" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+<hr>
 
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;" alt="Random Dev Quote" />
 </p>
