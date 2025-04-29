@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Learner⚙️" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Learner⚙️;👀 I’m currently learning Machine Learing And Data science;📫 Reach me at: viholdivyaraj7@gmail.com" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </h1>
 
 <div align="center">
