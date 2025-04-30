@@ -1,18 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" style="max-width: 90%; height: auto;" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="600" />
 </div>
 
 <hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyaraj-vihol&label=Profile%20views&color=0e75b6&style=flat" alt="divyaraj-vihol" />
-  <a href="https://github.com/divyaraj-vihol?tab=followers">
-    <img src="https://img.shields.io/github/followers/divyaraj-vihol?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=divyaraj-vihol.divyaraj-vihol" alt="visitors" />
 </p>
 
 <hr>
@@ -28,9 +26,6 @@
   <a href="mailto:viholdivyaraj7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/divyaraj-vihol">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <hr>
@@ -41,8 +36,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <hr>
@@ -56,13 +50,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <hr>
@@ -87,15 +79,15 @@
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=divyaraj-vihol&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" alt="GitHub Streak" width="400" />
   
   <br><br>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" style="width: 48%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical&hide=html,css" alt="Top Languages" style="width: 48%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </div>
 
 <hr>
@@ -103,7 +95,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="600" />
 </p>
 
 <hr>
@@ -112,9 +104,7 @@
 
 <!-- GitHub Activity Feed -->
 <p align="center">
-  <a href="https://github.com/divyaraj-vihol">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaraj-vihol&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaraj-vihol&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="800" />
 </p>
 
 <hr>
@@ -122,9 +112,5 @@
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="500" />
 </p>
-
-<div align="center">
-  <img src="https://github.com/divyaraj-vihol/divyaraj-vihol/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
