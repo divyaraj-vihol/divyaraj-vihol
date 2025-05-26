@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile
+
+😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="600" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" />
 </div>
 
 <hr>
@@ -78,16 +80,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaraj-vihol&theme=radical" alt="GitHub Streak" />
   
-  <br><br>
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=divyaraj-vihol&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaraj-vihol&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <hr>
@@ -95,16 +91,15 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyaraj-vihol&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <hr>
 
 <h2 align="center">⚡ Recent GitHub Activity</h2>
 
-<!-- GitHub Activity Feed -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaraj-vihol&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaraj-vihol&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <hr>
@@ -112,5 +107,5 @@
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="500" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
