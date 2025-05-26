@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile
 
 😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" />
-</h1>
+</p>
 
 <div align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" />
