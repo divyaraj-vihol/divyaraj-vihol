@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome+To+My+Profile />
-
-😃;Hi+👋,+I'm+Divyaraj+Vihol;Computer+Engineering+Student👨‍💻;Tech+Enthusiast⚙️;👀+I'm+currently+learning+Machine+Learning🤖;📫+Reach+me+at:+viholdivyaraj7@gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Welcome%20To%20My%20Profile%0A%0A%F0%9F%98%83;Hi%20%F0%9F%91%8B,%20I'm%20Divyaraj%20Vihol%0AComputer%20Engineering%20Student%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%0ATech%20Enthusiast%E2%9A%99%EF%B8%8F%0A%F0%9F%91%80%20I'm%20currently%20learning%20Machine%20Learning%F0%9F%A4%96%0A%F0%9F%93%AC%20Reach%20me%20at:%20viholdivyaraj7@gmail.com" alt="Typing SVG" />
 </p>
 
 <div align="center">
